@@ -1,4 +1,4 @@
-# Share Modules in Private Modules Registry
+# Share Modules in Private Modules Registry....
 
 ## Step-01: Introduction
 - Create and version a GitHub repository for use in the private module registry
